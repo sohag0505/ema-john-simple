@@ -1,3 +1,20 @@
 .review-container {
   margin: 50px auto;
 }
+
+.proceed-link {
+  text-decoration: none;
+}
+
+.btn-proceed {
+  background-color: rgb(196, 10, 187);
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 10px auto;
+  border-radius: 4px;
+  color: white;
+  height: 51px;
+  font-size: 21px;
+  align-items: center;
+}
