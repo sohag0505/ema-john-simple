@@ -10,6 +10,8 @@
 
 .nav-content {
   display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 20px;
 }
 
@@ -21,4 +23,9 @@
 
 .nav-content a:hover {
   color: orange;
+}
+
+.text-white {
+  color: white;
+  padding: 5px;
 }
